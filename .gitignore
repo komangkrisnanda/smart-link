@@ -1,0 +1,20 @@
+# Composer
+/vendor/
+
+# Application environment
+/.env
+/.env.*
+
+# Dependencies
+/node_modules/
+
+# Testing
+/phpunit.xml
+
+# IDE
+/.idea/
+/.vscode/
+
+# OS generated files
+.DS_Store
+Thumbs.db
